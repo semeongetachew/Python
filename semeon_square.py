@@ -3,7 +3,7 @@ import turtle
 def semeon_square(a_turtle):
     for i in range(1,5):
         a_turtle.forward(100)
-        a_turtle.right(90)
+        a_turtle.right(90
 
 def draw_art():
     window = turtle.Screen()
